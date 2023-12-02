@@ -1,4 +1,10 @@
-### Hi there 👋
+### A versatile technologist, driven by results - whilst having strong technical & leadership experience within operations, infrastructure & EUC. Proven abilities in infrastructure architecture; design & delivery, remediation & mitigation and improving efficiencies of the overall IT strategy.
+
+### Able to quickly identify areas of strengths & weaknesses, alongside implementing policies & standards for productivity & compliancy. Over a decade of production experience, with the last few years focusing on datacenter, cloud, security and modern management elements.
+
+### I have worked up the technical ladder over the past thirteen years - from 1st Line Support to a technical solution architect in the public sector & now working as the Head of Technical Operations for the world’s largest retail loss prevention - software company based in London. My main technology stack(s) & focus-points are within the Microsoft, VMware & Automation areas.
+
+### I am now looking for my next challenge, where I can carry on upskilling myself and my peers, build a strong team, as well as growing within the business and more importantly, being an asset for them.
 
 <!--
 **Vincekchan/Vincekchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
