@@ -1,10 +1,14 @@
-#### A versatile technologist, driven by results - whilst having strong technical & leadership experience within operations, infrastructure & EUC. Proven abilities in infrastructure architecture; design & delivery, remediation & mitigation and improving efficiencies of the overall IT strategy.
+#### A versatile technologist, driven by results - whilst having strong technical & leadership experience within IT operations, infrastructure & EUC.
 
-#### Able to quickly identify areas of strengths & weaknesses, alongside implementing policies & standards for productivity & compliancy. Over a decade of production experience, with the last few years focusing on datacenter, cloud, security and modern management elements.
+#### Proven abilities in infrastructure architecture; design & delivery, remediation & mitigation and improving efficiencies of the overall IT strategy. 
 
-#### I have worked up the technical ladder over the past thirteen years - from 1st Line Support to a technical solution architect in the public sector & now working as the Head of Technical Operations for the world’s largest retail loss prevention - software company based in London. My main technology stack(s) & focus-points are within the Microsoft, VMware & Automation areas.
+#### Able to quickly identify areas of strengths & weaknesses, alongside implementing policies & standards for productivity & compliancy.
 
-#### I am now looking for my next challenge, where I can carry on upskilling myself and my peers, build a strong team, as well as growing within the business and more importantly, being an asset for them.
+#### I have worked up the technical ladder over the past fourteen years - from first line support to a technical solution architect for the public sector & now consulting as Head of Technical Operations for the world’s largest retail loss prevention - software company in Central London.
+
+#### My main technology stack(s) & focus-points are within the Microsoft, VMware & Automation areas (both legacy and modern environments).
+
+#### I am now looking for my next challenge, where I can carry on upskilling myself and my peers, build a strong team, as well as growing within a great business and more importantly, being an asset to them
 
 <!--
 **Vincekchan/Vincekchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
